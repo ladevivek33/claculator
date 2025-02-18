@@ -37,16 +37,11 @@ The **Calculator Project** is a simple web-based calculator built using PHP. It 
 
 ## Screenshots
 ### Calculator Interface
-![Calculator Interface](screenshots/calculator_output.jpg)
+![Calculator Interface](output.jpg)
 
 
 
 ## Contributing
 Feel free to submit pull requests for improvements.
 
-## License
-This project is licensed under the MIT License.
-
----
-For any issues or questions, contact [your-email@example.com].
 
